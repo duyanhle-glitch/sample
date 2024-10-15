@@ -15,6 +15,17 @@ Welcome to the Sales Analysis Project! This dataset, sourced from [Samruddhi Bho
   - Details of all subsequent orders from Orders.csv
 
 This merged dataset is instrumental for analyzing sales performance, understanding customer preferences, and making informed business decisions.
+Order ID	Order Date	CustomerName	State	City	Amount	Profit	Quantity	Category	Sub-Category	PaymentMode
+B-26055	10/3/2018	Harivansh	Uttar Pradesh	Mathura	5729	64	14	Furniture	Chairs	EMI
+B-26055	10/3/2018	Harivansh	Uttar Pradesh	Mathura	671	114	9	Electronics	Phones	Credit Card
+B-26055	10/3/2018	Harivansh	Uttar Pradesh	Mathura	443	11	1	Clothing	Saree	COD
+B-26055	10/3/2018	Harivansh	Uttar Pradesh	Mathura	57	7	2	Clothing	Shirt	UPI
+B-26055	10/3/2018	Harivansh	Uttar Pradesh	Mathura	227	48	5	Clothing	Stole	COD
+B-26055	10/3/2018	Harivansh	Uttar Pradesh	Mathura	213	4	14	Clothing	Shirt	COD
+B-26055	10/3/2018	Harivansh	Uttar Pradesh	Mathura	94	27	2	Clothing	T-shirt	COD
+B-26055	10/3/2018	Harivansh	Uttar Pradesh	Mathura	1250	-12	2	Electronics	Printers	EMI
+B-26055	10/3/2018	Harivansh	Uttar Pradesh	Mathura	1218	-420	8	Furniture	Bookcases	COD
+![image](https://github.com/user-attachments/assets/a5e69e5f-c762-40f5-a457-1b9ad7e1e2ee)
 
 ## Data Discussion
 
@@ -77,6 +88,22 @@ This chart illustrates average profit for each product category.
 - **Prioritize Electronics**: Invest in high-margin products.
 - **Optimize Clothing and Furniture**: Analyze cost structures to enhance profitability.
 
+![tải xuống (14)](https://github.com/user-attachments/assets/e816bc2a-f693-430f-8231-90928a713164)
+
+---
+
+### Combined Analysis
+
+####Key Insights
+- **Electronics Dominate: The Electronics category leads in both total sales and average profit, indicating its strong performance.
+- **Clothing's Profitability: Clothing has moderate sales but lower profit margins compared to Electronics. Focus on improving profitability through cost reduction or pricing strategies.
+- **Furniture's Potential: Furniture has good sales and high profit margins, suggesting potential for growth and increased revenue.
+
+####Managerial Recommendations
+- **Prioritize Electronics: Invest in marketing, product development, and inventory for Electronics to capitalize on its success.
+- **Optimize Clothing: Analyze cost structure and pricing for Clothing to identify areas for improvement. Consider product mix adjustments or cost-saving measures.
+- **Grow Furniture: Explore strategies to increase sales for Furniture, such as targeted marketing or product expansion.
+
 ---
 
 ### 3. Quantity Sold by Sub-Category
@@ -90,6 +117,7 @@ The chart shows the quantity sold for each sub-category, revealing sales trends.
 #### Managerial Implications:
 - **Focus on High-Demand Products**: Increase inventory for high-selling items like Sarees.
 - **Investigate Poor Performers**: Analyze why Tables are selling poorly and take corrective actions.
+![tải xuống (13)](https://github.com/user-attachments/assets/ef97a734-34b2-4b2d-9281-c6e66a3187e7)
 
 ---
 
@@ -104,9 +132,24 @@ This chart analyzes average profit margins across sub-categories.
 #### Managerial Implications:
 - **Focus on Profitable Sub-Categories**: Allocate resources to high-margin items.
 - **Address Loss-Making Sub-Categories**: Investigate costs and pricing for items with negative margins.
+![tải xuống (15)](https://github.com/user-attachments/assets/c0ac81d0-7b37-4943-ad16-87cbb2a44778)
 
 ---
+### Combined Analysis
 
+####Key Insights
+- **High-Profit, High-Volume Sub-Categories: "Saree" and "Electronic Games" are driving overall profitability. Focus on maintaining their success and exploring growth opportunities.
+- **High-Profit, Low-Volume Sub-Categories: "Printers" and "Accessories" offer potential for increased revenue with targeted strategies.
+- **Loss-Making Sub-Categories: "Chairs" and "Electronic Games" require urgent attention to address profitability issues.
+- **Low-Profit, Low-Volume Sub-Categories: "Kurti," "Leggings," "Phones," "Shirt," "Skirt," and "Stole" might need evaluation for discontinuation or repositioning.
+
+####Managerial Recommendations
+- **Prioritize High-Profit Sub-Categories: Invest in marketing, product development, and inventory for "Saree" and "Electronic Games."
+- **Optimize High-Profit, Low-Volume Sub-Categories: Implement targeted marketing, promotions, or cross-selling for "Printers" and "Accessories."
+- **Address Loss-Making Sub-Categories: Conduct a thorough analysis of costs, pricing, and product quality for "Chairs" and "Electronic Games." - **Implement corrective measures or consider discontinuation.
+- **Evaluate Low-Profit, Low-Volume Sub-Categories: Assess the strategic fit of these sub-categories and make informed decisions about their future.
+
+---
 ### 5. Total Sales by Payment Method
 
 The chart shows total sales amounts for each payment method.
@@ -117,6 +160,25 @@ The chart shows total sales amounts for each payment method.
 #### Management Decisions:
 - **Promote Preferred Methods**: Focus on COD as it is the most popular.
 - **Explore Additional Options**: Consider incentives for less popular payment methods.
+![tải xuống (12)](https://github.com/user-attachments/assets/8fcc793a-8187-47e1-8533-0148f0c3bc82)
+
+---
+
+### 6. Monhthly Sales Trend Over Time
+
+The chart shows the monthly sales trend over time for PV Transpacific.
+
+#### Key Observations:
+- **Highest Sales**: The highest sales occurred in October 2018, followed by December 2018 and August 2018.
+- **Increasing/Decreasing Pattern: There is a clear seasonal pattern, with sales increasing from January to October and then decreasing from November to December.
+- **Significance: Understanding this seasonal pattern is important for sales forecasting and planning. Managers can anticipate peak sales periods and adjust inventory levels, staffing, and marketing efforts accordingly.
+
+#### Management Decisions:
+- **Seasonal Planning: Prepare for increased sales during peak seasons by ensuring adequate inventory, staffing, and promotional activities.
+- **Inventory Optimization: Reduce inventory levels during off-peak seasons to minimize holding costs.
+- **Marketing Campaigns: Tailor marketing efforts to align with seasonal trends, focusing on promoting products that are in high demand during peak periods.
+
+![tải xuống (20)](https://github.com/user-attachments/assets/0d8c6f26-8715-48b2-88f9-758ba1e236d9)
 
 ---
 
