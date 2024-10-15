@@ -22,6 +22,7 @@ This dataset, sourced from [Samruddhi Bhosale on Kaggle](https://www.kaggle.com)
 ## Data Discussion
 
 First 10 rows of the table:
+
 ![image](https://github.com/user-attachments/assets/a5e69e5f-c762-40f5-a457-1b9ad7e1e2ee)
 
 
@@ -73,6 +74,7 @@ The chart depicts total sales for each product category: Clothing, Electronics, 
 ### 2. Average Profit by Product Category
 
 The chart shows the average profit by category for three categories: Clothing, Electronics, and Furniture.
+
 #### Key Observations:
 - **Highest Profit**: Electronics has the highest average profit, followed by Furniture and then Clothing.
 #### Managerial Recommendations:
@@ -87,7 +89,7 @@ This information is important for managers to understand the profitability of di
 
 ### Combined Analysis
 
-#### Key Insights
+#### Key Observations:
 - **Electronics Dominate**: The Electronics category leads in both total sales and average profit, indicating its strong performance.
 - **Clothing's Profitability**: Clothing has moderate sales but lower profit margins compared to Electronics. Focus on improving profitability through cost reduction or pricing strategies.
 - **Furniture's Potential**: Furniture has good sales and high profit margins, suggesting potential for growth and increased revenue.
@@ -131,7 +133,7 @@ This chart analyzes average profit margins across sub-categories.
 ---
 ### Combined Analysis
 
-####Key Insights
+#### Key Observations:
 - **High-Profit, High-Volume Sub-Categories**: "Saree" and "Electronic Games" are driving overall profitability. Focus on maintaining their success and exploring growth opportunities.
 - **High-Profit, Low-Volume Sub-Categories**: "Printers" and "Accessories" offer potential for increased revenue with targeted strategies.
 - **Loss-Making Sub-Categories**: "Chairs" and "Electronic Games" require urgent attention to address profitability issues.
