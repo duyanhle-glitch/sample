@@ -62,9 +62,9 @@ The chart depicts total sales for each product category: Clothing, Electronics, 
 - **Product Development**: Focus on enhancing electronic products.
 - **Marketing Strategies**: Tailor efforts to target specific customer segments.
 
----
-![Total Sales by Product Category](images/tải xuống (11).png)
+![tải xuống (11)](https://github.com/user-attachments/assets/c3fdecc6-14c0-4796-94d8-eb08e22e07da)
 
+---
 ### 2. Average Profit by Product Category
 
 This chart illustrates average profit for each product category.
