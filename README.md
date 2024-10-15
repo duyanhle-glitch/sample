@@ -21,7 +21,8 @@ This data can be instrumental for analyzing sales performance, understanding cus
 
 First 10 rows of the table:
 
-![image](https://github.com/user-attachments/assets/a5e69e5f-c762-40f5-a457-1b9ad7e1e2ee)
+![image](https://github.com/user-attachments/assets/0ee86cca-0c9c-4079-9272-a66990e3d0e5)
+
 
 
 The dataset consists of the following columns:
