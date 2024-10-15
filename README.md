@@ -7,17 +7,12 @@
 ## Introduction
 
 This dataset, sourced from [Samruddhi Bhosale on Kaggle](https://www.kaggle.com), contains two key tables that have been merged into one comprehensive dataset for analysis:
+- **Orders.csv** :
+Order ID (primary key), Order Date, CustomerName, State, City ->Customer details.
+- **Details.csv**:
+Order ID (primary key) and the details of all the subsequent orders within the Orders.csv ->Order details.
 
-- **Orders.csv**: Contains customer details, including:
-  - **Order ID** (Primary Key)
-  - **Order Date**
-  - **Customer Name**
-  - **State**
-  - **City**
-
-- **Details.csv**: Contains order details with:
-  - **Order ID** (Primary Key)
-  - Details of all subsequent orders from Orders.csv
+This data can be instrumental for analyzing sales performance, understanding customer preferences, and making informed business decisions.
 
 ## Data Discussion
 
@@ -28,13 +23,17 @@ First 10 rows of the table:
 
 The dataset consists of the following columns:
 
-- **Order ID**: A unique identifier for each transaction.
-- **Amount**: The total monetary value of the order.
-- **Profit**: The profit earned from the order.
-- **Quantity**: The number of items sold in the order.
-- **Category**: General classification of the product (e.g., Electronics, Furniture, Clothing).
-- **Sub-Category**: A more specific classification (e.g., Phones, Chairs, Trousers).
-- **Payment Mode**: The method of payment used (e.g., COD, Credit Card, UPI).
+- **Order ID**: Unique identifier for each order.
+- **Order Date**: The date when the order was placed.
+- **Customer Name**: The name of the customer who placed the order.
+- **State**: The state in India where the order was made.
+- **City**: The city of the customer.
+- **Amount**: Total amount for the order.
+- **Profit**: Profit made from the order.
+- **Quantity**: Number of items in the order.
+- **Category**: The broad category of products (e.g., Electronics, Furniture).
+- **Sub-Category**: More specific classification within the category (e.g., Phones, Chairs).
+- **Payment Mode**: The method used for payment (e.g., Credit Card, COD).
 
 ### Important Columns for Analysis
 
@@ -42,6 +41,7 @@ The dataset consists of the following columns:
 - **Quantity**: Helps gauge product demand.
 - **Category** and **Sub-Category**: Essential for market segmentation analysis.
 - **Payment Mode**: Insights into customer preferences regarding transaction methods.
+- **Order Date**: For trend analysis over time.
 
 ### Data Cleaning/Processing
 
