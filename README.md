@@ -19,10 +19,11 @@ This dataset, sourced from [Samruddhi Bhosale on Kaggle](https://www.kaggle.com)
   - **Order ID** (Primary Key)
   - Details of all subsequent orders from Orders.csv
 
+## Data Discussion
+
 First 10 rows of the table:
 ![image](https://github.com/user-attachments/assets/a5e69e5f-c762-40f5-a457-1b9ad7e1e2ee)
 
-## Data Discussion
 
 The dataset consists of the following columns:
 
