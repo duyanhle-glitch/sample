@@ -61,8 +61,8 @@ The chart depicts total sales for each product category: Clothing, Electronics, 
 - **Resource Allocation**: Prioritize investment in the Electronics category.
 - **Product Development**: Focus on enhancing electronic products.
 - **Marketing Strategies**: Tailor efforts to target specific customer segments.
+![Total Sales by Product Category](images/tải xuống (11).png)
 
-![](images/tải xuống (11).png)
 ---
 
 ### 2. Average Profit by Product Category
