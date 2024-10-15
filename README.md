@@ -77,11 +77,11 @@ The chart shows the average profit by category for three categories: Clothing, E
 
 #### Key Observations:
 - **Highest Profit**: Electronics has the highest average profit, followed by Furniture and then Clothing.
+
 #### Managerial Recommendations:
-This information is important for managers to understand the profitability of different product categories. They can use this data to make decisions such as:
--**Prioritize product categories**: Focus on promoting and expanding product categories with higher profit margins, such as Electronics.
--**Review underperforming categories**: Investigate the reasons for lower profit margins in Clothing and consider strategies to improve profitability.
--**Identify opportunities**: Look for potential opportunities to increase profit margins in all categories, such as optimizing pricing or cost structures.
+- **Prioritize product categories**: Focus on promoting and expanding product categories with higher profit margins, such as Electronics.
+- **Review underperforming categories**: Investigate the reasons for lower profit margins in Clothing and consider strategies to improve profitability.
+- **Identify opportunities**: Look for potential opportunities to increase profit margins in all categories, such as optimizing pricing or cost structures.
 
 ![tải xuống (14)](https://github.com/user-attachments/assets/e816bc2a-f693-430f-8231-90928a713164)
 
@@ -106,6 +106,7 @@ This information is important for managers to understand the profitability of di
 #### Key Observations:
 - **Saree**: The Saree sub-category has the highest quantity sold, indicating strong demand and popularity among customers. This suggests that marketing efforts or seasonal trends may be effectively driving sales.
 - **Tables**: In contrast, Tables show the lowest quantity sold, which may suggest a lack of interest, ineffective marketing, or potential issues with product visibility.
+
 #### Managerial Recommendations:
 - **Focus on High-Demand Products**: To capitalize on the strong demand for Sarees, management should consider increasing inventory levels to ensure that supply meets the demand, especially during peak sales periods. Additionally, promotional efforts could be intensified to further boost sales.
 - **Investigate Poor Performers**: Management should conduct a detailed analysis of the Tables sub-category to understand the reasons behind poor sales.
@@ -121,7 +122,6 @@ This chart analyzes average profit margins across sub-categories.
 - **Profitability Variation**: The average profit margin for each sub-category varies significantly. Some sub-categories, like "Printers" and "Trousers," have a positive profit margin, while others, such as "Chairs" and "Electronic Games," have a negative margin.
 - **High-Profit Sub-Categories**: "Printers" stand out with the highest average profit margin, followed by "Trousers" and "Accessories." These sub-categories might be generating substantial revenue and contributing positively to the overall profitability.
 - **Loss-Making Sub-Categories**: "Chairs" and "Electronic Games" are the primary loss-making sub-categories. These might require closer examination to identify cost-saving measures or pricing adjustments to improve their profitability.
-
 
 #### Managerial Recommendations:
 - **Focus on Profitable Sub-Categories**: The manager can allocate more resources and marketing efforts to sub-categories with high profit margins like "Printers." This could involve increasing inventory, promoting these products, or exploring opportunities to expand their product lines.
