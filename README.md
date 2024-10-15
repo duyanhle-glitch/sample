@@ -74,33 +74,7 @@ The chart depicts total sales for each product category: Clothing, Electronics, 
 ![tải xuống (11)](https://github.com/user-attachments/assets/c3fdecc6-14c0-4796-94d8-eb08e22e07da)
 
 ---
-### 2. Average Profit by Product Category
 
-The chart shows the average profit by category for three categories: Clothing, Electronics, and Furniture.
-
-#### Key Observations:
-- **Highest Profit**: Electronics has the highest average profit, followed by Furniture and then Clothing.
-
-#### Managerial Recommendations:
-- **Prioritize product categories**: Focus on promoting and expanding product categories with higher profit margins, such as Electronics.
-- **Review underperforming categories**: Investigate the reasons for lower profit margins in Clothing and consider strategies to improve profitability.
-- **Identify opportunities**: Look for potential opportunities to increase profit margins in all categories, such as optimizing pricing or cost structures.
-
-![tải xuống (14)](https://github.com/user-attachments/assets/e816bc2a-f693-430f-8231-90928a713164)
-
----
-
-### Combined Analysis
-
-#### Key Observations:
-- **Electronics Dominate**: The Electronics category leads in both total sales and average profit, indicating its strong performance.
-- **Clothing's Profitability**: Clothing has moderate sales but lower profit margins compared to Electronics. Focus on improving profitability through cost reduction or pricing strategies.
-- **Furniture's Potential**: Furniture has good sales and high profit margins, suggesting potential for growth and increased revenue.
-
-#### Managerial Recommendations
-- **Prioritize Electronics**: Invest in marketing, product development, and inventory for Electronics to capitalize on its success.
-- **Optimize Clothing**: Analyze cost structure and pricing for Clothing to identify areas for improvement. Consider product mix adjustments or cost-saving measures.
-- **Grow Furniture**: Explore strategies to increase sales for Furniture, such as targeted marketing or product expansion.
 
 ---
 
@@ -157,7 +131,7 @@ The chart shows the monthly sales trend over time for PV Transpacific.
 #### Key Observations:
 - **Highest Sales**: The highest sales occurred in October 2018, followed by December 2018 and August 2018.
 - **Increasing/Decreasing Pattern**: There is a clear seasonal pattern, with sales increasing from January to October and then decreasing from November to December.
-- **Significance: Understanding this seasonal pattern is important for sales forecasting and planning. Managers can anticipate peak sales periods and adjust inventory levels, staffing, and marketing efforts accordingly.
+- **Significance**: Understanding this seasonal pattern is important for sales forecasting and planning. Managers can anticipate peak sales periods and adjust inventory levels, staffing, and marketing efforts accordingly.
 
 #### Managerial Recommendations:
 - **Seasonal Planning**: Prepare for increased sales during peak seasons by ensuring adequate inventory, staffing, and promotional activities.
