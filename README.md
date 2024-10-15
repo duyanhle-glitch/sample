@@ -1,6 +1,7 @@
 # ONLINE SALES DATA REPORT
+- **Subject:HSB3119-Introduction to Data Science**
 - **Class:MAS2**
-- **Lecturer:Emmanuel Plan**
+- **Lecturer:Dr. Emmanuel Lance Christopher VI M. Plan**
 
 ## Team Member Evaluation Of Teamwork
 ![image](https://github.com/user-attachments/assets/812c2abc-d115-4d1d-a7e2-f228d2f04462)
@@ -42,7 +43,6 @@ The dataset consists of the following columns:
 - **Amount** and **Profit**: Critical for understanding financial performance.
 - **Quantity**: Helps gauge product demand.
 - **Category** and **Sub-Category**: Essential for market segmentation analysis.
-- **Payment Mode**: Insights into customer preferences regarding transaction methods.
 - **Order Date**: For trend analysis over time.
 
 ### Data Cleaning/Processing
@@ -148,21 +148,8 @@ This chart analyzes average profit margins across sub-categories.
 - **Evaluate Low-Profit, Low-Volume Sub-Categories**: Assess the strategic fit of these sub-categories and make informed decisions about their future.
 
 ---
-### 5. Total Sales by Payment Method
 
-The chart shows total sales amounts for each payment method.
-
-#### Key Observations:
-- **Highest Sales**: COD leads in total sales, followed by Credit Card and Debit Card.
-
-#### Managerial Recommendations:
-- **Promote Preferred Methods**: Focus on COD as it is the most popular.
-- **Explore Additional Options**: Consider incentives for less popular payment methods.
-![tải xuống (12)](https://github.com/user-attachments/assets/8fcc793a-8187-47e1-8533-0148f0c3bc82)
-
----
-
-### 6. Monhthly Sales Trend Over Time
+### 5. Monhthly Sales Trend Over Time
 
 The chart shows the monthly sales trend over time for PV Transpacific.
 
