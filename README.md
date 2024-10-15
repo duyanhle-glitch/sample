@@ -1,7 +1,5 @@
 # ONLINE SALES DATA REPORT
 
----
-
 ## Team Member Evaluation Of Teamwork
 ![image](https://github.com/user-attachments/assets/812c2abc-d115-4d1d-a7e2-f228d2f04462)
 
