@@ -82,6 +82,8 @@ Before analysis, the dataset needs to be cleaned:
 - **Product Prioritization:** The manager can prioritize products within each category based on their profitability. For example, they might focus on promoting higher-profit clothing items or investigate ways to improve the profitability of electronics.
 - **Resource Allocation:** Understanding the profit margins of each category can help guide resource allocation decisions. The manager can allocate more resources to categories with higher profit potential and potentially reallocate resources from less profitable categories.
 - **Pricing Strategy:** The chart can inform pricing decisions. If a category has high sales but low profit, the manager might consider increasing prices to improve profitability. Conversely, if a category has low sales but high profit, they might consider lowering prices to stimulate demand.
+  
+![tải xuống (36)](https://github.com/user-attachments/assets/e59833ee-a34a-4a84-b70c-2f9fac4e0721)
 
 ---
 
