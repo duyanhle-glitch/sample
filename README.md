@@ -119,7 +119,8 @@ The chart you provided shows the total sales for each product sub-category.
 - **Performance Monitoring:** Regular monitoring can help identify trends over time, such as whether certain cities are improving or declining in performance.
 - **Market Expansion:** The manager can consider expanding operations in high-performing cities or investigate potential in lower-performing ones.
 
-![tải xuống (18)](https://github.com/user-attachments/assets/3ef75bb9-c54c-48f8-9323-412bd433279e)
+![tải xuống (38)](https://github.com/user-attachments/assets/fc12a145-8778-45ca-b97e-43d8bd74badd)
+
 
 ---
 #### 5.Top Customers by Revenue
