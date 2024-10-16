@@ -89,8 +89,17 @@ Before analysis, the dataset needs to be cleaned:
 
 ---
 
-### 3.
+### 3.Top 10 Sub-Categories by Sales
 
+#### Key Observations:
+- **Highest Sales**: Printers have the highest total sales, followed by Sarees and Bookcases.
+
+#### Managerial Decisions:
+- **Prioritize product categories**: Focus on promoting and restocking products with high demand, such as Printers and Sarees.
+- **Evaluate underperforming categories**: Investigate the reasons for low sales in products like Stole and Accessories. Consider offering promotions or improving product offerings.
+- **Optimize inventory**: Use this data to optimize inventory levels for each product, ensuring adequate stock while minimizing excess inventory.
+
+![tải xuống (33)](https://github.com/user-attachments/assets/89121389-a6d9-4ab4-b54f-0cfb9200774f)
 
 ### 4. Sales Distribution by Payment Mode
 
