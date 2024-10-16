@@ -87,7 +87,7 @@ Before analysis, the dataset needs to be cleaned:
 
 ---
 
-### 3.Top 10 Sub-Categories by Sales
+### 3.Total Sales by Sub-Category
 
 #### Key Observations:
 - **Highest Sales**: Printers have the highest total sales, followed by Sarees and Bookcases.
@@ -97,7 +97,15 @@ Before analysis, the dataset needs to be cleaned:
 - **Evaluate underperforming categories**: Investigate the reasons for low sales in products like Stole and Accessories. Consider offering promotions or improving product offerings.
 - **Optimize inventory**: Use this data to optimize inventory levels for each product, ensuring adequate stock while minimizing excess inventory.
 
-![tải xuống (33)](https://github.com/user-attachments/assets/89121389-a6d9-4ab4-b54f-0cfb9200774f)
+The chart you provided shows the total sales for each product sub-category.
+
+**Management Decisions:**
+
+- **Prioritize product categories:** Focus on promoting and restocking products with high demand, such as Printers and Sarees.
+- **Evaluate underperforming categories:** Investigate the reasons for low sales in products like Stole and Accessories. Consider offering promotions or improving product offerings.
+- **Optimize inventory:** Use this data to optimize inventory levels for each product, ensuring adequate stock while minimizing excess inventory.
+
+![tải xuống (37)](https://github.com/user-attachments/assets/6ff2c84d-faea-4df7-9550-ef408f6376b0)
 
 ---
 #### 4.Top 10 Performing Cities by Sales
@@ -130,6 +138,14 @@ Before analysis, the dataset needs to be cleaned:
 ---
 
 ## Conclusion
-This comprehensive analysis of online sales data has provided valuable insights into customer behavior, product performance, and overall business health. By understanding sales trends, profit margins, and customer preferences, we can make informed decisions to optimize our online sales strategy.By implementing these recommendations, we can effectively leverage our online sales data to drive business growth, enhance customer satisfaction, and maintain a competitive edge in the market.
 
+This analysis of online sales data reveals key insights:
+
+* **Seasonality:** Sales peak in January, March, October, and November.
+* **Profitability:** Clothing has high profit margins, Electronics have high sales but lower profit.
+* **Product Performance:** Printers, Sarees, and Bookcases have high demand.
+* **City Performance:** Indore is the top-performing city.
+* **Customer Analysis:** Harivansh is the top customer.
+
+These findings offer valuable guidance for future business decisions. By leveraging the insights from this data analysis, the company can improve inventory management, optimize marketing strategies, prioritize profitable products, and strengthen customer relationships, ultimately leading to increased sales and profitability.
 
