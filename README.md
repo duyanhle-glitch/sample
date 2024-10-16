@@ -46,7 +46,7 @@ The dataset consists of the following columns:
 - **Category** and **Sub-Category**: Essential for market segmentation analysis.
 - **Order Date**: For trend analysis over time.
 - **City**: For finding cities with top sales .
-- **Payment Mode**:For finding mthod of payment with top performance.
+- **Customer Name**:For customer loyalty programs.
 
 ### Data Cleaning/Processing
 
@@ -73,19 +73,15 @@ Before analysis, the dataset needs to be cleaned:
 
 ---
 
-### 2.Average Profit Margin by Category
-
-
+### 2. Profit vs. Sales by Product Category Chart
 #### Key Observations:
-- The chart shows that Clothing has the highest average profit margin, indicating that it is more profitable on a per-unit basis compared to Electronics and Furniture.
-
+- **Clothing:** Despite having the second-highest sales, Clothing generates the highest profit. This suggests that Clothing products have higher profit margins or are more efficiently managed.
+- **Electronics:** Although it has the highest sales, Electronics' profit is relatively lower. 
+- **Furniture:** Furniture has the lowest sales and profit.
 #### Managerial Decisions:
-- **Prioritize product categories:** Focus on promoting and expanding product categories with higher profit margins, such as Clothing.
-- **Review underperforming categories:** Investigate the reasons for lower profit margins in Electronics and Furniture and consider strategies to improve profitability.
-- **Identify opportunities:** Look for potential opportunities to increase profit margins in all categories, such as optimizing pricing or cost structures.
-
-![tải xuống (27)](https://github.com/user-attachments/assets/a343f04d-d6b7-432a-b529-d8f3034cdad5)
-
+- **Product Prioritization:** The manager can prioritize products within each category based on their profitability. For example, they might focus on promoting higher-profit clothing items or investigate ways to improve the profitability of electronics.
+- **Resource Allocation:** Understanding the profit margins of each category can help guide resource allocation decisions. The manager can allocate more resources to categories with higher profit potential and potentially reallocate resources from less profitable categories.
+- **Pricing Strategy:** The chart can inform pricing decisions. If a category has high sales but low profit, the manager might consider increasing prices to improve profitability. Conversely, if a category has low sales but high profit, they might consider lowering prices to stimulate demand.
 
 ---
 
@@ -101,23 +97,8 @@ Before analysis, the dataset needs to be cleaned:
 
 ![tải xuống (33)](https://github.com/user-attachments/assets/89121389-a6d9-4ab4-b54f-0cfb9200774f)
 
-### 4. Sales Distribution by Payment Mode
-
-#### Key Observations:
-- The largest portion of sales, **45.6%**, comes from **Cash on Delivery (COD)**, followed by **UPI** at **22.1%**. Other payment methods like debit cards, credit cards, and EMI make up smaller portions, with EMI being the least used at **8.0%**.
-- Pattern:** COD is the dominant payment method, indicating that customers prefer paying upon receiving the product. Digital payment options like UPI and debit cards are also widely used, but traditional credit cards and EMI options lag behind.
-
-#### Managerial Decisions
-- **Optimize Payment Options:** The high COD usage suggests customers might value security in transactions. The manager could consider enhancing COD services and ensuring smooth returns/refund processes.
-- **Promote Digital Payments:** Since UPI has strong usage, offering discounts for digital payments could further increase their adoption, lowering handling costs associated with COD.
-- **Expand Payment Options:** Encouraging more customers to use credit cards or EMI through incentives (like installment plans or cashbacks) could help increase higher-value purchases.
-Understanding payment preferences helps the business enhance customer experience and optimize transaction costs.
-
-![tải xuống (17)](https://github.com/user-attachments/assets/aa099640-616a-4244-92ae-7eedd330ebfe)
-
-
 ---
-#### 5.Top 10 Performing Cities by Sales
+#### 4.Top 10 Performing Cities by Sales
 
 #### Key Observations:
 - **Indore** has the highest sales amount, indicating it is the top-performing city.
@@ -129,6 +110,20 @@ Understanding payment preferences helps the business enhance customer experience
 - **Market Expansion:** The manager can consider expanding operations in high-performing cities or investigate potential in lower-performing ones.
 
 ![tải xuống (18)](https://github.com/user-attachments/assets/3ef75bb9-c54c-48f8-9323-412bd433279e)
+
+---
+#### 5.Top Customers by Revenue
+
+#### Key Observations:
+- Harivansh is the top customer by a significant margin, with a revenue far exceeding the others.
+- Madhav and Madan Mohan follow closely behind, forming a clear tier of high-revenue customers.
+  
+#### Managerial Decisions
+- **Customer Segmentation**: The chart suggests a potential for segmenting customers into high-value, mid-value, and low-value groups. This segmentation can inform targeted marketing strategies and customer relationship management efforts.
+- **Customer Loyalty**: The top customers, particularly Harivansh, Madhav, and Madan Mohan, may represent a core customer base that is highly loyal and valuable to the business. It's essential to retain and nurture these customers.
+- **Sales Performance Analysis**: The chart can be used to identify underperforming customers and investigate the reasons behind their lower revenue. This analysis can lead to improvements in sales processes, product offerings, or customer service.
+  
+![tải xuống (35)](https://github.com/user-attachments/assets/eebc5912-713b-4c93-aaab-771ae39980d4)
 
 ---
 
