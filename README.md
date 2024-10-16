@@ -57,90 +57,70 @@ Before analysis, the dataset needs to be cleaned to:
 
 ## Chart Explanations
 
-### 1. Total Sales by Product Category
+### 1. Sales Trend Over Time  
+### Key Observations:
+- The chart shows that the highest sales amount occurred in **January 2018** and **March 2018**, where the sales reached approximately **60,000**. After March, the sales dropped and gradually decreased throughout mid-year, only to rise again in October and November.
+- There is an **initial spike** in sales from January to March, followed by a **significant decline** through the summer months (April to July). Starting from August, the sales begin to rise again, reaching a peak in November, but then showing a slight decline.
+  
+#### Managerial Decisions:
+- **Seasonal Sales Patterns:** This chart reveals clear seasonality in the sales data. The manager can see that sales perform much better in the **early and late months** of the year (likely due to holidays or seasonal demand). Identifying these peaks helps the business:
+- **Inventory Management:** The manager can plan to stock up more products in preparation for the peaks in demand during January, March, and the later months like October and November.
+- **Marketing Strategy:** Marketing campaigns can be timed to coincide with the pre-peak months to take advantage of customer demand spikes.
+- **Resource Allocation:** During the slower months (like May through July), the company can reduce operational costs, possibly reducing marketing spend or production to avoid overstocking.
 
-The chart depicts total sales for each product category: Clothing, Electronics, and Furniture.
-
-#### Key Observations:
-- **Electronics Dominates**:  The Electronics category generated the highest total sales, significantly outperforming Clothing and Furniture. This suggests a strong demand for electronic products.
-- **Clothing and Furniture**: While Clothing and Furniture sales are lower than Electronics, they still represent substantial revenue streams. This indicates a consistent demand for these product categories.
-
-#### Managerial Recommendations:
-- **Resource Allocation**: Prioritize investment in the Electronics category to capitalize on its strong performance and explore growth opportunities.
-- **Product Development**: Focus on developing new electronic products or enhancing existing ones to maintain market leadership.
-- **Marketing Strategies**: Tailor marketing efforts to target specific customer segments within each category, emphasizing the unique selling points of products.
-- **Pricing Optimization**: Analyze pricing strategies for each category to ensure competitiveness and profitability.
-
-![tải xuống (11)](https://github.com/user-attachments/assets/c3fdecc6-14c0-4796-94d8-eb08e22e07da)
+![tải xuống (14)](https://github.com/user-attachments/assets/fcf0114c-89c1-4385-b743-ecc827d4745a)
 
 ---
 
+### 2. Profit by Category
+
+
+### Key Observations:
+- The **Clothing** category has the highest total profit, exceeding **12,000**. 
+- **Electronics** follows, with a profit slightly below Clothing, around **10,000**.
+- **Furniture** has the lowest profit among the three categories, approximately **8,000**.
+
+### Managerial Decisions:
+- **Resource Allocation**:The manager can identify which category is performing best (Clothing) and consider allocating more resources, such as marketing efforts or inventory, to maximize profits in this area.
+- **Strategic Decisions**:Understanding profit distribution can influence strategic decisions regarding product offerings. For instance, if Clothing is consistently performing well, the manager could explore expanding the product line in this category.
+- **Identifying Underperformance**:With Furniture showing lower profits, the manager might investigate the reasons for this underperformance. This could involve analyzing market trends, customer preferences, or even pricing strategies.
+- **Setting Sales Targets**:The manager can set realistic sales targets based on historical performance data. Knowing the profit levels helps in forecasting and budgeting for the next period.
+   
+![tải xuống (22)](https://github.com/user-attachments/assets/7849c356-0acf-4403-98b7-e8ba62029548)
+
 
 ---
 
-### 3. Quantity Sold by Sub-Category
+### 3. Sales Distribution by Payment Mode
 
-#### Key Observations:
-- **Saree**: The Saree sub-category has the highest quantity sold, indicating strong demand and popularity among customers. This suggests that marketing efforts or seasonal trends may be effectively driving sales.
-- **Tables**: In contrast, Tables show the lowest quantity sold, which may suggest a lack of interest, ineffective marketing, or potential issues with product visibility.
+### Key Observations:
+- **Highest Segment:** The largest portion of sales, **45.6%**, comes from **Cash on Delivery (COD)**, followed by **UPI** at **22.1%**. Other payment methods like debit cards, credit cards, and EMI make up smaller portions, with EMI being the least used at **8.0%**.- **Pattern:** COD is the dominant payment method, indicating that customers prefer paying upon receiving the product. Digital payment options like UPI and debit cards are also widely used, but traditional credit cards and EMI options lag behind.
 
-#### Managerial Recommendations:
-- **Focus on High-Demand Products**: To capitalize on the strong demand for Sarees, management should consider increasing inventory levels to ensure that supply meets the demand, especially during peak sales periods. Additionally, promotional efforts could be intensified to further boost sales.
-- **Investigate Poor Performers**: Management should conduct a detailed analysis of the Tables sub-category to understand the reasons behind poor sales.
-![tải xuống (13)](https://github.com/user-attachments/assets/ef97a734-34b2-4b2d-9281-c6e66a3187e7)
+### Managerial Decisions
+- **Optimize Payment Options:** The high COD usage suggests customers might value security in transactions. The manager could consider enhancing COD services and ensuring smooth returns/refund processes.
+- **Promote Digital Payments:** Since UPI has strong usage, offering discounts for digital payments could further increase their adoption, lowering handling costs associated with COD.
+- **Expand Payment Options:** Encouraging more customers to use credit cards or EMI through incentives (like installment plans or cashbacks) could help increase higher-value purchases.
+Understanding payment preferences helps the business enhance customer experience and optimize transaction costs.
+
+![tải xuống (17)](https://github.com/user-attachments/assets/aa099640-616a-4244-92ae-7eedd330ebfe)
+
+
+---
+#### 4.Top 10 Performing Cities by Sales
+
+### Key Observations:
+- **Indore** has the highest sales amount, indicating it is the top-performing city.
+
+### Managerial Decisions
+- **Resource Allocation:** The manager can allocate more resources, such as marketing efforts or stock, to cities like Indore and Mumbai to maximize revenue.
+- **Strategy Development:** Cities with lower sales, like Thiruvananthapuram, might need a revised strategy to boost sales. This could include targeted promotions or understanding local customer preferences.
+- **Performance Monitoring:** Regular monitoring can help identify trends over time, such as whether certain cities are improving or declining in performance.
+- **Market Expansion:** The manager can consider expanding operations in high-performing cities or investigate potential in lower-performing ones.
+
+![tải xuống (18)](https://github.com/user-attachments/assets/3ef75bb9-c54c-48f8-9323-412bd433279e)
 
 ---
 
-### 4. Average Profit Margin by Sub-Category
-
-This chart analyzes average profit margins across sub-categories.
-
-#### Key Observations:
-- **Profitability Variation**: The average profit margin for each sub-category varies significantly. Some sub-categories, like "Printers" and "Trousers," have a positive profit margin, while others, such as "Chairs" and "Electronic Games," have a negative margin.
-- **High-Profit Sub-Categories**: "Printers" stand out with the highest average profit margin, followed by "Trousers" and "Accessories." These sub-categories might be generating substantial revenue and contributing positively to the overall profitability.
-- **Loss-Making Sub-Categories**: "Chairs" and "Electronic Games" are the primary loss-making sub-categories. These might require closer examination to identify cost-saving measures or pricing adjustments to improve their profitability.
-
-#### Managerial Recommendations:
-- **Focus on Profitable Sub-Categories**: The manager can allocate more resources and marketing efforts to sub-categories with high profit margins like "Printers." This could involve increasing inventory, promoting these products, or exploring opportunities to expand their product lines.
-- **Address Loss-Making Sub-Categories**: For sub-categories like "Chairs" and "Electronic Games," the manager should investigate the reasons for the losses. This could involve analyzing costs, pricing strategies, or product quality issues. Potential actions might include reducing costs, increasing prices, or discontinuing unprofitable products.
-- **Diversification**: The varying profit margins across sub-categories highlight the importance of product diversification. A balanced portfolio can help mitigate risks associated with fluctuations in the profitability of individual sub-categories.
-- **Profit Margin Analysis**: Regularly tracking and analyzing profit margins for each sub-category can provide valuable insights into the overall business performance and identify areas for improvement.
-![tải xuống (15)](https://github.com/user-attachments/assets/c0ac81d0-7b37-4943-ad16-87cbb2a44778)
-
----
-### Combined Analysis
-
-#### Key Observations:
-- **High-Profit, High-Volume Sub-Categories**: "Saree" and "Electronic Games" are driving overall profitability. Focus on maintaining their success and exploring growth opportunities.
-- **High-Profit, Low-Volume Sub-Categories**: "Printers" and "Accessories" offer potential for increased revenue with targeted strategies.
-- **Loss-Making Sub-Categories**: "Chairs" and "Electronic Games" require urgent attention to address profitability issues.
-- **Low-Profit, Low-Volume Sub-Categories**: "Kurti," "Leggings," "Phones," "Shirt," "Skirt," and "Stole" might need evaluation for discontinuation or repositioning.
-
-#### Managerial Recommendations:
-- **Prioritize High-Profit Sub-Categories**: Invest in marketing, product development, and inventory for "Saree" and "Electronic Games."
-- **Optimize High-Profit, Low-Volume Sub-Categories**: Implement targeted marketing, promotions, or cross-selling for "Printers" and "Accessories."
-- **Address Loss-Making Sub-Categories**: Conduct a thorough analysis of costs, pricing, and product quality for "Chairs" and "Electronic Games.".Implement corrective measures or consider discontinuation.
-- **Evaluate Low-Profit, Low-Volume Sub-Categories**: Assess the strategic fit of these sub-categories and make informed decisions about their future.
-
----
-
-### 5. Monhthly Sales Trend Over Time
-
-The chart shows the monthly sales trend over time for PV Transpacific.
-
-#### Key Observations:
-- **Highest Sales**: The highest sales occurred in October 2018, followed by December 2018 and August 2018.
-- **Increasing/Decreasing Pattern**: There is a clear seasonal pattern, with sales increasing from January to October and then decreasing from November to December.
-- **Significance**: Understanding this seasonal pattern is important for sales forecasting and planning. Managers can anticipate peak sales periods and adjust inventory levels, staffing, and marketing efforts accordingly.
-
-#### Managerial Recommendations:
-- **Seasonal Planning**: Prepare for increased sales during peak seasons by ensuring adequate inventory, staffing, and promotional activities.
-- **Inventory Optimization**: Reduce inventory levels during off-peak seasons to minimize holding costs.
-- **Marketing Campaigns**: Tailor marketing efforts to align with seasonal trends, focusing on promoting products that are in high demand during peak periods.
-
-![tải xuống (20)](https://github.com/user-attachments/assets/0d8c6f26-8715-48b2-88f9-758ba1e236d9)
-
----
 
 ## Additional Considerations
 
