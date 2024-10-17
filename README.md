@@ -98,7 +98,7 @@ Before analysis, the dataset needs to be cleaned:
 - **Customer Loyalty:** The top customers, particularly Harivansh, Madhav, and Madan Mohan, may represent a core customer base that is highly loyal and valuable to the business. It's essential to retain and nurture these customers,possibly through loyalty programs or personalized marketing.
 - **Sales Performance Analysis:** The chart can be used to identify underperforming customers and investigate the reasons behind their lower revenue. This analysis can lead to improvements in sales processes, product offerings, or customer service.
   
-![tải xuống (35)](https://github.com/user-attachments/assets/eebc5912-713b-4c93-aaab-771ae39980d4)
+![tải xuống (40)](https://github.com/user-attachments/assets/30330c44-bec2-4184-97a7-1c49ff184e3e)
 
 ---
 #### 4.Frequency of Payment Mode Usage
