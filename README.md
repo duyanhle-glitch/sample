@@ -46,6 +46,7 @@ The dataset consists of the following columns:
 - **Category**: Essential for market segmentation analysis.
 - **Order Date**: For trend analysis over time.
 - **Customer Name**:For customer loyalty programs.
+- **Payment Mode**:For analyzing payment method frequancy usage.
 
 ### Data Cleaning/Processing
 
