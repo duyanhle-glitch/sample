@@ -43,9 +43,8 @@ The dataset consists of the following columns:
 
 - **Amount** and **Profit**: Critical for understanding financial performance.
 - **Quantity**: Helps gauge product demand.
-- **Category** and **Sub-Category**: Essential for market segmentation analysis.
+- **Category**: Essential for market segmentation analysis.
 - **Order Date**: For trend analysis over time.
-- **City**: For finding cities with top sales .
 - **Customer Name**:For customer loyalty programs.
 
 ### Data Cleaning/Processing
@@ -87,36 +86,7 @@ Before analysis, the dataset needs to be cleaned:
 ![tải xuống (36)](https://github.com/user-attachments/assets/e59833ee-a34a-4a84-b70c-2f9fac4e0721)
 
 ---
-
-### 3.Total Sales by Sub-Category
-
-#### Key Observations:
-- **Highest Sales:** Printers have the highest total sales, followed by Sarees and Bookcases.
-
-#### Managerial Decisions:
-- **Prioritize product categories:** Focus on promoting and restocking products with high demand, such as Printers and Sarees.
-- **Evaluate underperforming categories:** Investigate the reasons for low sales in products like Stole and Accessories. Consider offering promotions or improving product offerings.
-- **Optimize inventory:** Use this data to optimize inventory levels for each product, ensuring adequate stock while minimizing excess inventory.
-
-![tải xuống (37)](https://github.com/user-attachments/assets/6ff2c84d-faea-4df7-9550-ef408f6376b0)
-
----
-#### 4.Top 10 Performing Cities by Sales
-
-#### Key Observations:
-- **Indore** has the highest sales amount, indicating it is the top-performing city.
-
-#### Managerial Decisions
-- **Resource Allocation:** The manager can allocate more resources, such as marketing efforts or stock, to cities like Indore and Mumbai to maximize revenue.
-- **Strategy Development:** Cities with lower sales, like Thiruvananthapuram, might need a revised strategy to boost sales. This could include targeted promotions or understanding local customer preferences.
-- **Performance Monitoring:** Regular monitoring can help identify trends over time, such as whether certain cities are improving or declining in performance.
-- **Market Expansion:** The manager can consider expanding operations in high-performing cities or investigate potential in lower-performing ones.
-
-![tải xuống (38)](https://github.com/user-attachments/assets/fc12a145-8778-45ca-b97e-43d8bd74badd)
-
-
----
-#### 5.Top Customers by Revenue
+#### 3.Top Customers by Revenue
 
 #### Key Observations:
 - Harivansh is the top customer by a significant margin, with a revenue far exceeding the others.
@@ -124,10 +94,26 @@ Before analysis, the dataset needs to be cleaned:
   
 #### Managerial Decisions
 - **Customer Segmentation:** The chart suggests a potential for segmenting customers into high-value, mid-value, and low-value groups. This segmentation can inform targeted marketing strategies and customer relationship management efforts.
-- **Customer Loyalty:** The top customers, particularly Harivansh, Madhav, and Madan Mohan, may represent a core customer base that is highly loyal and valuable to the business. It's essential to retain and nurture these customers.
+- **Customer Loyalty:** The top customers, particularly Harivansh, Madhav, and Madan Mohan, may represent a core customer base that is highly loyal and valuable to the business. It's essential to retain and nurture these customers,possibly through loyalty programs or personalized marketing.
 - **Sales Performance Analysis:** The chart can be used to identify underperforming customers and investigate the reasons behind their lower revenue. This analysis can lead to improvements in sales processes, product offerings, or customer service.
   
 ![tải xuống (35)](https://github.com/user-attachments/assets/eebc5912-713b-4c93-aaab-771ae39980d4)
+
+---
+#### 4.Frequency of Payment Mode Usage
+
+#### Key Observations:
+- **Cash on Delivery (COD)** is the most frequently used payment method, significantly outpacing other options. This suggests that customers may prefer the security of paying upon delivery.
+- **UPI (Unified Payments Interface)** comes next, indicating a growing trend in digital payment methods among consumers.
+- **Debit Card** and **Credit Card** usage is moderate, while **EMI (Equated Monthly Installment)** options are the least utilized. This could reflect customer preferences for immediate payment methods rather than credit-based options.
+  
+#### Managerial Decisions
+- **Customer Preferences:** High usage of COD suggests a need for retaining this option. It may also indicate trust issues with online payments.
+- **Promote less-used options:** Consider offering incentives or promotions to encourage the use of Debit Card, Credit Card, and EMI.
+- **Negotiate with payment providers:** Negotiate better terms with payment providers based on usage data.
+- **Marketing Focus:** Promotions or incentives could be tailored for less popular payment methods to encourage their usage, such as offering discounts for credit card payments.
+  
+![tải xuống (39)](https://github.com/user-attachments/assets/34a5b6f2-10f3-42ea-be82-75f7734ed6cb)
 
 ---
 
@@ -137,9 +123,8 @@ This analysis of online sales data reveals key insights:
 
 * **Seasonality:** Sales peak in January, March, October, and November.
 * **Profitability:** Clothing has high profit margins, Electronics have high sales but lower profit.
-* **Product Performance:** Printers, Sarees, and Bookcases have high demand.
-* **City Performance:** Indore is the top-performing city.
-* **Customer Analysis:** Harivansh is the top customer.
+* **Customer Analysis:** Harivansh,Madhav and Madan Mohan is the top customers.
+* **Payment Method Analysis:** COD is the most frequently used payment method,UPI comes next,showing a growing trend in digital payment methods.
 
 These findings offer valuable guidance for future business decisions. By leveraging the insights from this data analysis, the company can improve inventory management, optimize marketing strategies, prioritize profitable products, and strengthen customer relationships, ultimately leading to increased sales and profitability.
 
