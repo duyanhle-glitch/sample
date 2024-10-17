@@ -78,6 +78,7 @@ Before analysis, the dataset needs to be cleaned:
 - **Clothing:** Despite having the second-highest sales, Clothing generates the highest profit. This suggests that Clothing products have higher profit margins or are more efficiently managed.
 - **Electronics:** Although it has the highest sales, Electronics' profit is relatively lower. 
 - **Furniture:** Furniture has the lowest sales and profit.
+
 #### Managerial Decisions:
 - **Product Prioritization:** The manager can prioritize products within each category based on their profitability. For example, they might focus on promoting higher-profit clothing items or investigate ways to improve the profitability of electronics.
 - **Resource Allocation:** Understanding the profit margins of each category can help guide resource allocation decisions. The manager can allocate more resources to categories with higher profit potential and potentially reallocate resources from less profitable categories.
@@ -90,17 +91,9 @@ Before analysis, the dataset needs to be cleaned:
 ### 3.Total Sales by Sub-Category
 
 #### Key Observations:
-- **Highest Sales**: Printers have the highest total sales, followed by Sarees and Bookcases.
+- **Highest Sales:** Printers have the highest total sales, followed by Sarees and Bookcases.
 
 #### Managerial Decisions:
-- **Prioritize product categories**: Focus on promoting and restocking products with high demand, such as Printers and Sarees.
-- **Evaluate underperforming categories**: Investigate the reasons for low sales in products like Stole and Accessories. Consider offering promotions or improving product offerings.
-- **Optimize inventory**: Use this data to optimize inventory levels for each product, ensuring adequate stock while minimizing excess inventory.
-
-The chart you provided shows the total sales for each product sub-category.
-
-**Management Decisions:**
-
 - **Prioritize product categories:** Focus on promoting and restocking products with high demand, such as Printers and Sarees.
 - **Evaluate underperforming categories:** Investigate the reasons for low sales in products like Stole and Accessories. Consider offering promotions or improving product offerings.
 - **Optimize inventory:** Use this data to optimize inventory levels for each product, ensuring adequate stock while minimizing excess inventory.
@@ -130,9 +123,9 @@ The chart you provided shows the total sales for each product sub-category.
 - Madhav and Madan Mohan follow closely behind, forming a clear tier of high-revenue customers.
   
 #### Managerial Decisions
-- **Customer Segmentation**: The chart suggests a potential for segmenting customers into high-value, mid-value, and low-value groups. This segmentation can inform targeted marketing strategies and customer relationship management efforts.
-- **Customer Loyalty**: The top customers, particularly Harivansh, Madhav, and Madan Mohan, may represent a core customer base that is highly loyal and valuable to the business. It's essential to retain and nurture these customers.
-- **Sales Performance Analysis**: The chart can be used to identify underperforming customers and investigate the reasons behind their lower revenue. This analysis can lead to improvements in sales processes, product offerings, or customer service.
+- **Customer Segmentation:** The chart suggests a potential for segmenting customers into high-value, mid-value, and low-value groups. This segmentation can inform targeted marketing strategies and customer relationship management efforts.
+- **Customer Loyalty:** The top customers, particularly Harivansh, Madhav, and Madan Mohan, may represent a core customer base that is highly loyal and valuable to the business. It's essential to retain and nurture these customers.
+- **Sales Performance Analysis:** The chart can be used to identify underperforming customers and investigate the reasons behind their lower revenue. This analysis can lead to improvements in sales processes, product offerings, or customer service.
   
 ![tải xuống (35)](https://github.com/user-attachments/assets/eebc5912-713b-4c93-aaab-771ae39980d4)
 
