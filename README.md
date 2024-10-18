@@ -46,7 +46,6 @@ The dataset consists of the following columns:
 - **Quantity**: Helps gauge product demand.
 - **Category**: Essential for market segmentation analysis.
 - **Order Date**: For trend analysis over time.
-- **Customer Name**:For customer loyalty programs.
 - **Payment Mode**:For analyzing payment method frequency usage.
 
 ### Data Cleaning/Processing
@@ -88,21 +87,7 @@ Before analysis, the dataset needs to be cleaned:
 ![tải xuống (36)](https://github.com/user-attachments/assets/e59833ee-a34a-4a84-b70c-2f9fac4e0721)
 
 ---
-#### 3.Top Customers by Revenue
-
-#### Key Observations:
-- Harivansh is the top customer by a significant margin, with a revenue far exceeding the others.
-- Madhav and Madan Mohan follow closely behind, forming a clear tier of high-revenue customers.
-  
-#### Managerial Decisions
-- **Customer Segmentation:** The chart suggests a potential for segmenting customers into high-value, mid-value, and low-value groups. This segmentation can inform targeted marketing strategies and customer relationship management efforts.
-- **Customer Loyalty:** The top customers, particularly Harivansh, Madhav, and Madan Mohan, may represent a core customer base that is highly loyal and valuable to the business. It's essential to retain and nurture these customers,possibly through loyalty programs or personalized marketing.
-- **Sales Performance Analysis:** The chart can be used to identify underperforming customers and investigate the reasons behind their lower revenue. This analysis can lead to improvements in sales processes, product offerings, or customer service.
-  
-![tải xuống (40)](https://github.com/user-attachments/assets/30330c44-bec2-4184-97a7-1c49ff184e3e)
-
----
-#### 4.Frequency of Payment Mode Usage
+#### 3.Frequency of Payment Mode Usage
 
 #### Key Observations:
 - **Cash on Delivery (COD)** is the most frequently used payment method, significantly outpacing other options. This suggests that customers may prefer the security of paying upon delivery.
@@ -125,7 +110,6 @@ This analysis of online sales data reveals key insights:
 
 * **Seasonality:** Sales peak in January, March, October, and November.
 * **Profitability:** Clothing has high profit margins, Electronics have high sales but lower profit.
-* **Customer Analysis:** Harivansh,Madhav and Madan Mohan is the top customers.
 * **Payment Method Analysis:** COD is the most frequently used payment method,UPI comes next,showing a growing trend in digital payment methods.
 
 These findings offer valuable guidance for future business decisions. By leveraging the insights from this data analysis, the company can improve inventory management, optimize marketing strategies, prioritize profitable products, and strengthen customer relationships, ultimately leading to increased sales and profitability.
