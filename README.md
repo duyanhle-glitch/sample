@@ -43,7 +43,6 @@ The dataset consists of the following columns:
 ### Important Columns for Analysis
 
 - **Amount** and **Profit**: Critical for understanding financial performance.
-- **Quantity**: Helps gauge product demand.
 - **Category**: Essential for market segmentation analysis.
 - **Order Date**: For trend analysis over time.
 - **Payment Mode**:For analyzing payment method frequency usage.
