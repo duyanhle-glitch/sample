@@ -107,7 +107,7 @@ Before analysis, the dataset needs to be cleaned:
 
 This analysis of online sales data reveals key insights:
 
-* **Seasonality:** Sales peak in January, March, October, and November.
+* **Seasonality:** Sales peak in January, March, and November.
 * **Profitability:** Clothing has high profit margins, Electronics have high sales but lower profit.
 * **Payment Method Analysis:** COD is the most frequently used payment method,UPI comes next,showing a growing trend in digital payment methods.
 
