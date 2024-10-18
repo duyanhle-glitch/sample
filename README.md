@@ -86,14 +86,14 @@ Before analysis, the dataset needs to be cleaned:
 ![tải xuống (36)](https://github.com/user-attachments/assets/e59833ee-a34a-4a84-b70c-2f9fac4e0721)
 
 ---
-#### 3.Frequency of Payment Mode Usage
+### 3.Frequency of Payment Mode Usage
 
 #### Key Observations:
 - **Cash on Delivery (COD)** is the most frequently used payment method, significantly outpacing other options. This suggests that customers may prefer the security of paying upon delivery.
 - **UPI (Unified Payments Interface)** comes next, indicating a growing trend in digital payment methods among consumers.
 - **Debit Card** and **Credit Card** usage is moderate, while **EMI (Equated Monthly Installment)** options are the least utilized. This could reflect customer preferences for immediate payment methods rather than credit-based options.
   
-#### Managerial Decisions
+#### Managerial Decisions:
 - **Customer Preferences:** High usage of COD suggests a need for retaining this option. It may also indicate trust issues with online payments.
 - **Promote less-used options:** Consider offering incentives or promotions to encourage the use of Debit Card, Credit Card, and EMI.
 - **Negotiate with payment providers:** Negotiate better terms with payment providers based on usage data.
