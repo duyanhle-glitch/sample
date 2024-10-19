@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/812c2abc-d115-4d1d-a7e2-f228d2f04462)
 
 
-## Introduction
+## I.Introduction
 
 This dataset, sourced from [Samruddhi Bhosale on Kaggle](https://www.kaggle.com),with the topic being data related to sales of an online store in India.It contains two key tables that have been merged into one comprehensive dataset for analysis:
 - **Orders.csv** :
@@ -19,7 +19,7 @@ Order ID (primary key) and the details of all the subsequent orders within the O
 
 This data can be instrumental for analyzing sales performance, understanding customer preferences, and making informed business decisions.
 
-## Data Discussion
+## II.Data Discussion
 
 First 10 rows of the table:
 
@@ -56,7 +56,7 @@ Before analysis, the dataset needs to be cleaned:
 - Grouped the data to perform aggregated analysis on sales and profit trends.
 
 
-## Chart Explanations
+## III.Chart Explanations
 
 ### 1. Sales Trend Over Time  
 
@@ -106,7 +106,7 @@ Provide clear information about interest rates, tenure options, and total cost o
     
 ---
 
-## Conclusion
+## IV.Conclusion
 
 This analysis of online sales data reveals key insights:
 
