@@ -1,7 +1,8 @@
 # ONLINE SALES DATA REPORT
 - **Subject:HSB3119-Introduction to Data Science**
-- **Class:MAS2**
+- **Class:MAS02**
 - **Lecturer:Dr. Emmanuel Lance Christopher VI M. Plan**
+- **Group:06**
 
 ## Team Member Evaluation Of Teamwork
 #### Team leader:Lê Duy Anh
