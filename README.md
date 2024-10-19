@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This dataset, sourced from [Samruddhi Bhosale on Kaggle](https://www.kaggle.com), contains two key tables that have been merged into one comprehensive dataset for analysis:
+This dataset, sourced from [Samruddhi Bhosale on Kaggle](https://www.kaggle.com),with the topic being data related to sales of an online store in India.It contains two key tables that have been merged into one comprehensive dataset for analysis:
 - **Orders.csv** :
 Order ID (primary key), Order Date, CustomerName, State, City ->Customer details.
 - **Details.csv**:
@@ -111,5 +111,5 @@ This analysis of online sales data reveals key insights:
 * **Profitability:** Clothing has high profit margins, Electronics have high sales but lower profit.
 * **Payment Method Analysis:** COD is the most frequently used payment method,UPI comes next,showing a growing trend in digital payment methods.
 
-These findings offer valuable guidance for future business decisions. By leveraging the insights from this data analysis, the company can improve inventory management, optimize marketing strategies, prioritize profitable products, and strengthen customer relationships, ultimately leading to increased sales and profitability.
+These findings offer valuable guidance for future business decisions. By leveraging the insights from this data analysis, the company can improve inventory management, optimize marketing strategies, prioritize profitable products, and strengthen customer loyalty as well as trust, ultimately leading to increased sales and profitability.
 
