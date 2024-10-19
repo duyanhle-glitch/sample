@@ -94,7 +94,7 @@ Before analysis, the dataset needs to be cleaned:
 - **Debit Card** and **Credit Card** usage is moderate, while **EMI (Equated Monthly Installment)** options are the least utilized. This could reflect customer preferences for immediate payment methods rather than credit-based options.
   
 #### Managerial Decisions:
-- **Customer Preferences:** High usage of COD suggests a need for retaining this option.The Indian government has actively promoted UPI as a digital payment method, encouraging its adoption among both individuals and businesses..Businesses should ensure smooth COD operations and promote UPI as a convenient and secure payment option. This might involve partnering with logistics providers for efficient COD delivery as well as National Payments Corporation of India.
+- **Customer Preferences:** High usage of COD suggests a need for retaining this option.The Indian government has actively promoted UPI as a digital payment method, encouraging its adoption among both individuals and businesses.Businesses should ensure smooth COD operations and promote UPI as a convenient and secure payment option.This might involve partnering with logistics providers for efficient COD delivery as well as National Payments Corporation of India.
 - **Promote less-used options:** Consider offering incentives or promotions to encourage the use of Debit Card, Credit Card, and EMI,which can cater to diverse customer preferences and potentially increase sales.
 - **Negotiate with payment providers:** Negotiate better terms with payment providers based on usage data.
     
