@@ -91,12 +91,13 @@ Before analysis, the dataset needs to be cleaned:
 #### Key Observations:
 - **Cash on Delivery (COD)** is the most frequently used payment method, significantly outpacing other options. This suggests that customers may prefer the security of paying upon delivery.
 - **UPI (Unified Payments Interface)**-an Indian instant payment system as well as protocol developed by the National Payments Corporation of India (NPCI),comes next, indicating a growing trend in digital payment methods among consumers.
-- **Debit Card** and **Credit Card** usage is moderate, while **EMI (Equated Monthly Installment)** options are the least utilized. This could reflect customer preferences for immediate payment methods rather than credit-based options.
+- **Debit Card** and **Credit Card** usage is moderate, while **EMI (Equated Monthly Installment)** options are the least utilized. This could reflect customer preferences for immediate payment methods rather than credit-based options.Culturally,especially in India,some consumers may prioritize saving over spending and avoid taking on debt.
   
 #### Managerial Decisions:
-- **Customer Preferences:** High usage of COD suggests a need for retaining this option.The Indian government has actively promoted UPI as a digital payment method, encouraging its adoption among both individuals and businesses.Businesses should ensure smooth COD operations and promote UPI as a convenient and secure payment option.This might involve partnering with logistics providers for efficient COD delivery as well as National Payments Corporation of India.
+- **Customer Preferences:** High usage of COD suggests a need for retaining this option.The Indian government has actively promoted UPI as a digital payment method, encouraging its adoption among both individuals and businesses.Businesses should ensure smooth COD operations and promote UPI as a convenient and secure payment option.This might involve partnering with logistics providers for efficient COD delivery as well as keeping in touch with National Payments Corporation of India.
 - **Promote less-used options:** Consider offering incentives or promotions to encourage the use of Debit Card, Credit Card, and EMI,which can cater to diverse customer preferences and potentially increase sales.
-- **Negotiate with payment providers:** Negotiate better terms with payment providers based on usage data.
+- **Negotiate with payment providers:** Negotiate better terms with payment providers based on usage data.Partner with financial institutions to negotiate favorable interest rates for customers.
+Provide clear information about interest rates, tenure options, and total cost of ownership.
     
 ![tải xuống (39)](https://github.com/user-attachments/assets/34a5b6f2-10f3-42ea-be82-75f7734ed6cb)
 
