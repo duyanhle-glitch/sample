@@ -58,6 +58,9 @@ Before analysis, the dataset needs to be cleaned:
 ## Chart Explanations
 
 ### 1. Sales Trend Over Time  
+
+![tải xuống (14)](https://github.com/user-attachments/assets/fcf0114c-89c1-4385-b743-ecc827d4745a)
+
 #### Key Observations:
 - The chart shows that the highest sales amount occurred in **January 2018** and **March 2018**, where the sales reached approximately **60,000**. After March, the sales dropped and gradually decreased throughout mid-year, only to rise again in October and November.
 - There is an **initial spike** in sales from January to March, followed by a **significant decline** through the summer months (April to July). Starting from August, the sales begin to rise again, reaching a peak in November, but then showing a slight decline.
@@ -68,11 +71,12 @@ Before analysis, the dataset needs to be cleaned:
 - **Marketing Strategy:** Marketing campaigns can be timed to coincide with the pre-peak months to take advantage of customer demand spikes.
 - **Resource Allocation:** During the slower months (like May through July), the company can reduce operational costs, possibly reducing marketing spend or production to avoid overstocking.
 
-![tải xuống (14)](https://github.com/user-attachments/assets/fcf0114c-89c1-4385-b743-ecc827d4745a)
-
 ---
 
 ### 2. Profit vs. Sales by Product Category Chart
+
+![tải xuống (36)](https://github.com/user-attachments/assets/e59833ee-a34a-4a84-b70c-2f9fac4e0721)
+
 #### Key Observations:
 - **Clothing:** Despite having the second-highest sales, Clothing generates the highest profit. This suggests that Clothing products have higher profit margins or are more efficiently managed.
 - **Electronics:** Although it has the highest sales, Electronics' profit is relatively lower. 
@@ -83,10 +87,10 @@ Before analysis, the dataset needs to be cleaned:
 - **Resource Allocation:** Understanding the profit margins of each category can help guide resource allocation decisions. The manager can allocate more resources to categories with higher profit potential and potentially reallocate resources from less profitable categories.
 - **Pricing Strategy:** The chart can inform pricing decisions. If a category has high sales but low profit, the manager might consider increasing prices to improve profitability. Conversely, if a category has low sales but high profit, they might consider lowering prices to stimulate demand.
   
-![tải xuống (36)](https://github.com/user-attachments/assets/e59833ee-a34a-4a84-b70c-2f9fac4e0721)
-
 ---
 ### 3.Frequency of Payment Mode Usage
+
+![tải xuống (39)](https://github.com/user-attachments/assets/34a5b6f2-10f3-42ea-be82-75f7734ed6cb)
 
 #### Key Observations:
 - **Cash on Delivery (COD)** is the most frequently used payment method, significantly outpacing other options. This suggests that customers may prefer the security of paying upon delivery.
@@ -99,8 +103,6 @@ Before analysis, the dataset needs to be cleaned:
 - **Negotiate with payment providers:** Negotiate better terms with payment providers based on usage data.Partner with financial institutions to negotiate favorable interest rates for customers.
 Provide clear information about interest rates, tenure options, and total cost of ownership.
     
-![tải xuống (39)](https://github.com/user-attachments/assets/34a5b6f2-10f3-42ea-be82-75f7734ed6cb)
-
 ---
 
 ## Conclusion
